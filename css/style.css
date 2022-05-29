@@ -1,0 +1,201 @@
+@font-face{
+    font-family: Rubik-Regular;
+    src: url("../fonts/Rubik-Regular.ttf");
+}
+@font-face{
+    font-family: Rubik-Medium;
+    src: url("../fonts/Rubik-Medium.ttf");
+}
+.container{
+     width: 100%;
+     padding:70px 100px;
+}
+.fa-bookmark{
+    background-color: #5267DF;
+    border-radius: 50px;
+    color: #ffffff;
+    font-size: 15px;
+    height: 30px;
+    padding: 10px;
+    margin-right: 10px;
+}
+.img{
+    padding-top: 10px;
+}
+.navber{
+    display: inline-block;
+}
+.nav{
+    padding-left: 500px;
+    display: flex;
+    justify-content: space-between;
+}
+.mini-nav:hover{
+    color: #5267DF;
+}
+.header{
+     display: flex;
+     justify-content: space-between;    
+}
+.top-header{
+    display: flex;
+   justify-content: space-between; 
+}
+.login{
+    padding: 10px 30px;
+    border-radius: 5px;
+  background-color: rgb(250,89,89);
+    color: #ffffff;
+    font-family: Rubik-Medium;
+    font-size: 13px;
+    border: none;
+}
+.login:hover{
+    background-color:#9b7777;
+}
+.para{
+    padding-top: 5%;
+    display: flex;
+}
+.manager{
+    font-family: Rubik-Medium;
+    font-size: 48px;
+    color: rgb(36,42,69);
+}
+.simple{
+    font-family: Rubik-Regular;
+    font-size: 18px;
+    color: #242A45;
+}
+.Chrome{
+    font-family: Rubik-Medium;
+    font-size: 14px;
+    border: none;
+    background-color: rgb(82,103,223);
+    color: #FFFFFF;
+     border-radius: 5px;
+    padding: 20px 10%;  
+     margin-top: 20px;
+}
+.Chrome:hover{
+  background-color:  #686e8d;
+}
+ .Firefox{
+    font-family: Rubik-Medium;
+    font-size: 14px;
+    border: none;
+    background-color: #F7F7F7;
+    color: #242A45;
+     border-radius: 5px;
+    padding: 20px 10%; 
+} 
+.Firefox:hover{
+    background-color:  #686e8d;
+  }
+.one-click{
+     padding-top: 5%; 
+     display: flex; 
+}
+.small-header{
+  margin-left: 18%;
+  margin-top: 7%;
+}
+.bookmark{
+    color: #242A45;
+    font-size: 32px;
+    font-family: Rubik-Medium;
+}
+.Organize{
+    font-family: Rubik-Regular;
+    font-size: 18px;
+    color: #242A45;
+    margin-top: 15px;
+}
+.info{
+    padding: 20px 30px;
+    border-radius: 5px;
+    background-color:#5267DF;
+    color: #FFFFFF;
+    font-family:Rubik-Medium ;
+    font-size:14px;
+    border: none;
+    margin-top: 15px;
+}
+.info:hover{
+    background-color:  #686e8d;
+  }
+.download{
+    font-family: Rubik-Medium;
+    font-size: 32px;
+    color: #242A45;
+}
+.browsers{
+    font-family: Rubik-Regular;
+    font-size: 18px;
+    color: #242A45;
+    margin-top: 10px;
+}
+.extension{
+    text-align: center;
+   padding-top: 10%;
+}
+.google-search{
+    display: flex; 
+    padding-top: 10%;
+}
+.start-box{
+border-radius: 10px;
+margin-right: 10px;
+text-align: center;
+}
+.start-box:hover{
+    background-color: #979ec5;
+}
+.search{
+width: 50%;
+height: 50%;
+}
+.Add{
+    font-family: Rubik-Medium;
+    font-size: 20px;
+    color: Add to Chrome;
+    margin-top: 30px; 
+}
+.Minimum{
+    font-family: Rubik-Regular;
+    font-size: 15px;
+    color: #242A45;
+      margin-top: 15px; 
+}
+.Install{
+    border-radius: 5px;
+    padding: 10px 5%;
+    margin-left: 4%;
+    border: none;
+    background-color: #5267DF;
+    color: #ffffff;
+    margin-top: 15px; 
+}
+.Install:hover{
+    background-color:  #686e8d;
+  }
+ /* .line{
+    border-style: dashed;
+    border-color:#979797;
+    margin-top: 15%;
+}  */
+.middle-box{
+    border-radius: 10px; 
+    text-align: center; 
+}
+.middle-box:hover{
+    background-color: #979ec5;
+}
+.last-box{
+    border-radius: 10px; 
+    margin-left: 10px; 
+   text-align: center;
+}
+.last-box:hover{
+    background-color: #979ec5;
+}
